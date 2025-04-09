@@ -35,3 +35,5 @@ An amended return resulted in:
 🔻 $104 decrease in Payment
 
 ✅ Corrected figures are reflected in the dataset.
+
+Source: https://www.kaggle.com/datasets/willianoliveiragibin/casino-gaming-data
